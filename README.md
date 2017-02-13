@@ -19,9 +19,8 @@ on this repo or contact us directly!
 3. Enter a name for the environment, "html" for example  
 4. Select your Github repo from the selector
 5. Press the create button and wait a few seconds to allow the deployment to complete
-6. Press the start button to start the environment
-7. Press one of the links in the "App" or "Env" column in the app view to open the app/env 
-8. Press the blue console button to watch the output of the server process (optional) 
+6. Press one of the links in the "App" or "Env" column in the app view to open the app/env 
+7. Press the blue console button to watch the output of the server process (optional) 
 
 ## Deploy a Html env from local archive upload (option 2)
 
@@ -31,7 +30,6 @@ on this repo or contact us directly!
 4. Press the "Choose archive" button and choose the archive you downloaded in step 1
 5. Press the "More" button and enter (or copy/paste) "/hello-html-master" into the "Source Root" field (this because the Github zipped archive contains a top level directory called "hello-html-master" where the source resides)
 5. Press the create button and wait a few seconds to allow the deployment to complete
-6. Press the start button to start the environment
-7. Press one of the links in the "App" or "Env" column in the app view to open the app/env 
-8. Press the blue console button to watch the output of the server process (optional) 
+6. Press one of the links in the "App" or "Env" column in the app view to open the app/env 
+7. Press the blue console button to watch the output of the server process (optional) 
 
